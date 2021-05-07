@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.50995">
+<testcase classname="PetStore Page test" name="Register an user in the PetStore Page" time="14.50995">
+<system-out><![CDATA[Given the user is already in the petstore homepage..........................passed
+Then the user is in the registration menu...................................passed
+Then the user enters the required details for account creation..............passed
+Then the user enters his username and password for signin...................passed
+And click on the sign in button.............................................passed
+Then the user selects fish for ordering.....................................passed
+Then the user adds the selected fish to the cart............................passed
+Then the user checkout the fish by entering the payment details.............passed
+Then the user successfully places the order.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
